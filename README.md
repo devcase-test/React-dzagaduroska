@@ -1,1 +1,1 @@
-# React-dzagaduroska
+Dummy template
